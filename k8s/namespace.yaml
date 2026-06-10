@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: enterprise-system-20260610-135113-fcp0iii5sg4y
